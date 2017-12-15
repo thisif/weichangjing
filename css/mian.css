@@ -461,10 +461,14 @@ span{
          font-size: 16px;
 			}
 			.swiper-slide.six .conter{
-				width: 80%;
+				width: 60%;
 				height: 40%;
 				margin: 0 auto;
 				}
+.swiper-slide.six .conter img{
+    width: 100%;
+    height: 100%;
+}
 		.swiper-slide.six .buttom{
 			width: 80%;
 			height:30% ;
