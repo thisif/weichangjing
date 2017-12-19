@@ -218,6 +218,7 @@ background-size: 100% 100%;
     font-size: 16px;
       font-family: 楷体;
     overflow: hidden;
+    text-overflow:ellipsis
 }
 .five{
        width:60px;
